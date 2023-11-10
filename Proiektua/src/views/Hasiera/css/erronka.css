@@ -1,0 +1,22 @@
+.hasiera {
+    width: 100%;
+    text-align: center;
+}
+
+.big-square-size *{
+    width: 1500px;
+    height: 550px;
+}
+
+img{
+    width:1250px;
+    margin-top: 80px;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-bottom: 80px;
+}
+
+.erdia{
+    text-align: center;
+}
+

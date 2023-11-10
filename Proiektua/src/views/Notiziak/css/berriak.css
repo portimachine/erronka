@@ -1,0 +1,14 @@
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+div {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 20px;
+}
+.filter-section{
+    background-color: grey;
+}

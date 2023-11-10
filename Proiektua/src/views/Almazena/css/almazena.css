@@ -1,0 +1,39 @@
+.container>div {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: auto;
+    height: 300px;
+    text-align: center;
+    background-color: #f7f7f7;
+}
+
+img.logo-img{
+    height: 70px;
+}
+.container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 200px);
+    margin: auto;
+    width: 85%;
+    gap: 4em;
+}
+img {
+    width: 200px;
+    height: 150px;
+    display: grid;
+}
+
+div p {
+    margin: 5px 0;
+    font-weight: bold;
+}
+
+div .prezioa {
+    color: #e60000;
+    font-size: 18px;
+}
+
+h1 {
+    text-align: center;
+}
+
